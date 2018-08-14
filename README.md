@@ -1,4 +1,4 @@
-># domains
+# domains
 Plugin Domains for GLPI
 
 Ce plugin est sur Transifex - Aidez-nous à le traduire :
