@@ -17,3 +17,5 @@ This plugin enables you to manage the domain names of your network and associate
 > * A mailing system allow to verify already expired or soon expired domain names
 > * Can be used with helpdesk
 > * Can be integrated into "environment":https://github.com/InfotelGLPI/environment plugin.
+
+Test.
